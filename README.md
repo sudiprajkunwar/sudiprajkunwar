@@ -1,9 +1,8 @@
 # 💫 About Me:
-### Hi, I'm Sudip Raj Kunwar 👋<br><br> 
+Hi, I'm Sudip Raj Kunwar 👋<br><br>
 💼 I’m a Senior Software Engineer at [Leapfrog Technology](https://www.lftechnology.com)<br> 
 💬 Ask me about: React, Node<br> 
 ⚡ Fun fact: I get weirdly excited about clean code and well-structured APIs 🚀<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudiprajkunwar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudip-raj-kunwar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudip.kunwar9898@gmail.com) 

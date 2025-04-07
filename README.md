@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Sudip Raj Kunwar 👋<br><br> 💼 I’m a Senior Software Engineer at [Leapfrog Technology](https://www.lftechnology.com)<br> 💬 Ask me about: REST APIs, NestJS, and backend best practices<br> ⚡ Fun fact: I get weirdly excited about clean code and well-structured APIs 🚀<br>
+### Hi, I'm Sudip Raj Kunwar 👋<br><br> 💼 I’m a Senior Software Engineer at [Leapfrog Technology](https://www.lftechnology.com)<br> 💬 Ask me about: React, Node<br> ⚡ Fun fact: I get weirdly excited about clean code and well-structured APIs 🚀<br>
 
 
 ## 🌐 Socials:

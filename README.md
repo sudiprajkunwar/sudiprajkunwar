@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi, I'm Sudip Raj Kunwar 👋<br><br>
 💼 I’m a Senior Software Engineer at [Leapfrog Technology](https://www.lftechnology.com)<br> 
 💬 Ask me about: React, Node<br> 

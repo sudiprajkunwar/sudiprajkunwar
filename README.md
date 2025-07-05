@@ -5,6 +5,8 @@
 ⚡ Fun fact: I get weirdly excited about clean code and well-structured APIs 🚀<br>
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/%20sudiprajkunwar.com.np-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.sudiprajkunwar.com.np)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudiprajkunwar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-raj-kunwar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudip.kunwar9898@gmail.com) 
 
 # 💻 Tech Stack:
